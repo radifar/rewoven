@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Muhammad Radifar",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "radifar@protonmail.com",
+  "friendly_name": "Rewoven",
+  "github_user": "radifar",
+  "license": "MIT",
+  "package_name": "rewoven",
+  "project_name": "rewoven",
+  "version": "0.1.0"
+}
