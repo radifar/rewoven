@@ -21,7 +21,7 @@ Changelog = "https://github.com/radifar/rewoven/releases"
 
 [tool.poetry.dependencies]
 python = "^3.6.1"
-click = "^8.0.1"
+click = "^8.0.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
